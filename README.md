@@ -15,9 +15,9 @@ Features
 - Persistent data storage using a relational database
 
 Technologies Used
-- Python
-- SQLAlchemy ORM
-- SQLite
+- Python: backend logic and system automation
+- SQLAlchemy: database modeling and ORM
+- SQLite: persistent data storage
 - Object-Oriented Programming (OOP)
 
 Objectives
